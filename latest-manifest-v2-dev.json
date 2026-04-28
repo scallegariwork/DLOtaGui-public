@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T23:27:48.781046+00:00",
+  "generatedAt": "2026-04-28T14:22:33.429245+00:00",
   "source": "jfrog+azure",
   "schemaVersion": 2,
   "entries": [
@@ -15,7 +15,7 @@
       "fileSize": 1703359833,
       "sha256": "6f419bcf129bf2cf9cd95cfcaa0447395c554510e04bfa8263ee351a2374338d",
       "legacy": false,
-      "cdnUrl_enc": "3HzAEv3KngoCa+aWf4bKPKRM+27uBzlQBQOypnM9RRTZkGnwsFgP98khQAF3lXyKyyz2OE5/lzGqk+JxyZdtNU8dkf61ZhrsIlW1xf7WnU9Qh51DVzeg2f7xnN4CYf9g8O0sI6pUasUNMLCIzSvl+5qjMWgjIS2bkrwH8uchZtQ/hGZURRoV0ekmXGduAIbqqR+D7zpcINuHzXIo3s8Bieh9MIS/Q3GT",
+      "cdnUrl_enc": "ViwP6u0s+paZrv6HPZf0+i3V2wTULMHyvx21HV5wJMvj15nfJA1sPCkHSs5tt8G21kSMdeKwIV176Z2wk6UsoTxlht20kLZOme/hfIqNMT63IS/4s5mC4zqYy1aeGxlw3dx2YRz+oogrzGP6PYCsqH6dmaKpEmyfaKGAaFdg5RRlUYPJ6VKyyWUm3WYkhaI7C0q3GQnPgIfPLT/m4PvOc4gsPdHfYAdd",
       "cdnUrlVerified": true
     },
     {
@@ -30,9 +30,9 @@
       "fileSize": 1596498091,
       "sha256": "4c41b923ae3c2563cc424f29ce27ac4c03b715f8c3b6ad2c93894ad66ca5dd1d",
       "legacy": false,
-      "cdnUrl_enc": "HN75SIav4mYOH3TivJPiebqB/dmZZxIaQpDVXZdLh2LhKe5ZpIQtf4eRKmLyuPWJr6s0fle7ODDkTsN1MOokiPL6MwzDuI4KBWnm6e61OP4G1V+5GKf6ucXfHLy4Yet9Zd7Y52M9hDjkz+xy0pesjzxo4SlPtLVUMmAFgRwb3ZuoygZWaHPDNiWD/vle9+rjJ8rMSRbJrUhrezXgWxXi4aYkBljSnPfk/7Cbii0PNbuk/ylDmGy7d8Lkg5oBV4S33A==",
+      "cdnUrl_enc": "BxZWJAzpmVEobcxkn0ZKfyKRxnd4HfZ+Cq1GWLeN7BLvgeFfSVWIORhuhqscOEgWdlV31DVALFuZeMImPhenDt+gteP7ve92MCjoJKF81A0n/DRS7cU0/NF74y1A1WKKbI2COEaWF60LwVYsX5CtgrkKMeSOZBR4z8VSmmyhmJbEfZJBPFPdQSk8j4maEPU03REQF68ftFJz46e8nMSPIPioAcZgzH31IKONmwHRn3QoDFfos0nDS8N+peiC9hqPQw==",
       "cdnUrlVerified": true,
-      "previousCdnUrl_enc": "BpgFwC9WDU94XI2bxbsmwDQcaTlT8UX2HWMFv9M67e7JDA6pl/9PDzKYBhpj9RcjJwauTCyueHfP1hAfmFQZopsoclCUxTMrbZVbXRnwEPCi7ka8PGf4JXSH9649p2Wt+47sjJ/cDPXmY+o8Axj6jPd4zBx+u5kKHxf4xzLrINf2NXjK01rPXyiLW1kZ3b6NARhhst0cLfDUcidG7NRt/sumJQXD8cc6+uep/jcQ4trbPJiIUqFjq4ZoKJokiYXsZA=="
+      "previousCdnUrl_enc": "pswDvvNwolbSkhB/gXHmWkC8B8SELCzbPnaKw6niudOVjxr6DcXeWE5r8g1ao+qhoDZKkcoggtb/wufuBqhmbbFguR4Y1f6C7RED917RPHW8ByVgTu9gsSswlLyMpqILptJOwSg36zBys62uBMHlQi6lNJFYAUfEBuGPEnyInx9Me7pgIY/y3ijXh5ZnAXQ1yLnD79ajq9UmWEQWAmqEenNlOIx3MfOu9qY6YUFCXF0naMVkWOMh9tpykgFtb3J/hA=="
     },
     {
       "buildName": "mob-jt22",
@@ -46,7 +46,7 @@
       "fileSize": 1574778437,
       "sha256": "955092c0fc9addfcf2544636cc16c85a1a863009e8acb38fa97210059c898b9c",
       "legacy": false,
-      "cdnUrl_enc": "1orhwFTZaIpi1CojZ3+RyAZh7Ww2HTH6OAZ0wpyMMmnjJ+6n2Xu52OR3bHGptMH4a8Nupfi/GHv13GuZWOvSQAdIbFTAXu0IMZdlN5gawpFu0ywzzvGSLzn1eNhTW0Ry8MKUHG7xDlbqsnQqOGK29cl5EmifDvVlzeHYt6mFrGDTWzMaclCjeeJ+fk/eiTqvkG2X0hSP8eiFo5/GzfzOhsovbvRivOozalI/yW+EDg5WWaOlmApiGqjfdSGDLw==",
+      "cdnUrl_enc": "V2cSIRkH+21C5XEOBqfrR5dTjTlkGWaTlsF0H89WB4RYF/3UP90ziIGancsfaHkIhJAM/wTH8dkGuzd2tB6XUapFYeJyEWsloqH27k54AmzXA3qXcqujl2kP4MLEK7QUNu2Xasy+nzN4xweKr9plLwa4UCKNUtYImDoNcIU/bwaz8bLI2CsS5UbZOlHbb/3gVwdSPkfAeLEnnql+f7B/5ILzJZLm0iX24YRi93fx0AkDIXu6d0LrnUl/DFm/Ww==",
       "cdnUrlVerified": true
     },
     {
@@ -62,9 +62,43 @@
       "fileSize": 1730770100,
       "sha256": "bd2605ba213720e18f8e0d339a1edf99fc31ce4a41023d77e58134d32d1c3d86",
       "legacy": false,
-      "cdnUrl_enc": "T4RyU4Stmp+afQ9BIcrX/HtQF73e72Ll4iN6VMEEYGP7eU5/AEx78JFnu1+B0NlqH1nS9dNIkuJ92Q7QLm4u+IMXNoOVu/cSTvTYpy1l2jK/QWX4r8S58OBNt/mROHvPiysUTJUzvOVcc3E8rnT1mUPLyJK0iTi3eYFFQPPBS2Ts9xEzaBXTR8sha/5IaZdfLf83/ZZxmCfV0GTjIy+uBO59bLtwp3SzeyXOnKM=",
+      "cdnUrl_enc": "aaHSdWRGKRg5fDTcL8wAsFC9O9qvPzk5MehaPqA8Mlnt//bWV6g+74wEEUfL5weACa4iF98vKNaHQNqjwuBVPWTBkhKLIBvJtA4M+/WMf8Wv8KwjhCpwHJGLhqlwuhr5tyiSbU9qYwX6qGN7j1XJFZLRdUPNTdGotl9hGztWSXZgo3CVCOKM6axBfMZSrZzcxErjssKT7yBKyLj2plMKl+nG/iK+aL4mhOqcfGs=",
       "cdnUrlVerified": true,
-      "previousCdnUrl_enc": "oWHFVJKLPiJhg+tDZQCCEbYQDCZKifY3vWFHsUCGjB8u8rxglPQVXk4DaQ6jol/w2BFHrLX96v3Ln+KYUlGfJR/fT+5qEueyran+VI+q4z6D18fgZtyukDI9YdnZOoI8gF2AH0zAAmIJIocDIbkzDgo4ZIkgUOQFRzAGUpKUjLvTzh8h9W2oWs+GI0aVoYmC+qYXJ11AjhWb8HMCqbA9T6oq/ZP5u1lwpPeaopD7"
+      "previousCdnUrl_enc": "e7axIFofqi/atgTaDCxs2qKjjzDoCq0ES9/yrzFew62k6O2nnfzgW3BtrXAhQ21sxseaDD1alBCzLBtvqopV+lQfdSCZ7/VYFRv9hBNqM1L88ayAJFKYSh1R9apEmkc5YV4li6OFK8DId2D1jzlVseSJ45vMKhXkhmTWW4WJfzBsaDtEjrD6sdZtuCrV2PmHs0dha6w/B7jjzNVVjBEoBJdVUFwTbJIdHdLZKt6q"
+    },
+    {
+      "buildName": "mob-m11",
+      "models": [
+        "Memor 11"
+      ],
+      "androidVersion": "13",
+      "version": "2.14.29.20260113s",
+      "artifactType": "ota",
+      "gmsType": "gms",
+      "fileSize": 1589490247,
+      "sha256": "279052d33f10355084cfef593112112bd68068782ba13afe502b0d17255093a4",
+      "legacy": false,
+      "cdnUrl_enc": "ipNCUo2Rzbyus9NztbGg5PkytPX8PhgDyWvI9pHynzxyC8st4uTFNikFp6CKOu04yGU7rulqwxJy2kbfdVIv+lg9VzmetLRsToEpnig+CQZ/JS39J6RfDxfZJ6igOJGWyIgPgUNhhMHFueyHimYLQjdmwq+hJDFDYC+FAxJRjlU8qkpf0npJfCTzansDUxqVJ8ZD9SwvBlyyBUoRky866/IuxWebRRMjEA==",
+      "cdnUrlVerified": true
+    },
+    {
+      "buildName": "mob-dl4490",
+      "models": [
+        "Memor 12",
+        "Memor 17",
+        "Memor 30",
+        "Memor 35"
+      ],
+      "androidVersion": "13",
+      "version": "1.25.002.20260410s",
+      "artifactType": "ota",
+      "gmsType": "gms",
+      "fileSize": 2024985018,
+      "sha256": "c19e80472e49a0a9b0878806e65c25647a4840430d00c53c87d3a772a7476a12",
+      "legacy": false,
+      "cdnUrl_enc": "nfIT1cnBF2kOya+iRrXCNSFeT7PmHTwPxfH3WLHdtuQ+fwhj7gneCnGz/VNxZSgHmhfrKh6yhTxZjYkMQ1Uw6BCdkieRf6ewKCI/pRdZPIF1REKjIP1jfttYcgmMjipjGIH4bd8YG5LvymocGEWDwcnF5mfSN+1JAYUPKHVNM/aHXQhhXPY9JQDzjEDaTXCgKixb4nj8xpO7HIFCUUI/fZjpLo6bm22IeNqD7TRKZDPA+8TsCPjj",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "jp3pXhMIFET4QIHQEM6hbE0GE95Bt8I6Wo4TGZLCbdhEhoGIrOiVcXh3GtOT69jdhyLQfXADshanA787c7twO4EF7g6FvboyGSN8uEpTaZcwTnn0gLRc+zzud5qD/pIkVZI8uzjR2Tgpy6OIHR0RMat961syeOGaZVzFhaYSOKNwxn3mKQTGs2RB3xE//2pCqRO/hvfLpHeSaOTYwqNSHwLZ/QXrZ9agT3ljDbqD9BRCQ5mgY8D9"
     },
     {
       "buildName": "mob-dl4490",
@@ -83,43 +117,9 @@
       "fileSize": 2240292729,
       "sha256": "0b9cc098bff560baf3323eea558844264a0e6ebb3ca0ac09ddac002355e9285f",
       "legacy": false,
-      "cdnUrl_enc": "b4+bzrSdec4WAMZ1kd01VMh0qJFMMIOPr3+yP9ilHyjdg9B3Xdj0kHCMf3EhoG45Puy7j1lrjwuMyacn2JYhZSOCYueigeKoRF6Wgq6/33rCSNIp0NdW77CkLaBBzoUh4Eyy7V3vroFgb6Yd66HE0vajkOkBPEaz9OO7RNAtlKOgAN+6iOJsGP8mFaryLgJJwROLthMipuiIgAcUrexNLGnKfCT+v+EaO3Ves/SCvawyrUpfmnYMI0l3gXpaTkOY8kXCujTx6g==",
+      "cdnUrl_enc": "zvLXbsgZ/vuvSesPgIH5VqAqt2+JbeCCjas48OCzQz4te5TixBh202G0/ILPnEG/fhif1tMAXTERcifrbwtpJoLJUZkTshqFRMLiaUAyYypF+D3yLLx4v9uHW4QDM1DpaJC6G7B5MuFVF+uiiHlus3UshaZdbXqVVug6inhooa9yi/aD2my8YtoFBtEfx+WXcVK57wRXOQn5auHItL1PtuhBnw0kIYCXXsM7v0WU8Tn0u54FfhwU1m7ZsW++ehRqIVu+qv72qw==",
       "cdnUrlVerified": true,
-      "previousCdnUrl_enc": "4Yh57xZkm++Y3yq0xOptosUHQWSonMzsDs5P2AptLfIS8pSsiHg6K1cFp8TTiRRbbGfYbv6L7MDr4ZGm1V4VyirlX7tfmM9KvSupvO2vRGQStqb9jiAZbNX19kIfs3u2GwNSNSgfKkkipbbSwKkPpMDkURzhaDe/QwRQfhKXgZMFTjywElGn7V4abe9aw/YM4EvzYIVFz7npqXOOuCueMUjVSLhHuDNRDV9YSHSH3o4MofeRHHyU7JHltE18B+IFGWEKwN7U"
-    },
-    {
-      "buildName": "mob-m11",
-      "models": [
-        "Memor 11"
-      ],
-      "androidVersion": "13",
-      "version": "2.14.29.20260113s",
-      "artifactType": "ota",
-      "gmsType": "gms",
-      "fileSize": 1589490247,
-      "sha256": "279052d33f10355084cfef593112112bd68068782ba13afe502b0d17255093a4",
-      "legacy": false,
-      "cdnUrl_enc": "8+iCQxhG/JheEsmN2UCezAEVZWJrFpjMveV1EuBApypoSSYOAcIEvylLZivoWAIbEaO0W8DAKY4nACiJPbEGTDjXVJdG7i90KeSubaksFiYtrr6AyVxAqLE247vBSDUYI+0husJswClXTho0Ly/JiTiJpD/x7WbE3vdgeWV8a1H2JvUHa78sUYyc7jZQXH3waFQJxbbIcaGolc91OqMJV4cT8K6hjKzwDw==",
-      "cdnUrlVerified": true
-    },
-    {
-      "buildName": "mob-dl4490",
-      "models": [
-        "Memor 12",
-        "Memor 17",
-        "Memor 30",
-        "Memor 35"
-      ],
-      "androidVersion": "13",
-      "version": "1.23.009.20260127s",
-      "artifactType": "ota",
-      "gmsType": "gms",
-      "fileSize": 2018586375,
-      "sha256": "88150a932dd2822bd3ec81b849cc6ef713ac94b974150e2725c7e092ae1c7f1b",
-      "legacy": false,
-      "cdnUrl_enc": "5QHxLU9hohTx18cYPmt9EsrcpogJSS/I81+RNFoCA3Dtexft2nva+f8VNq1R6cCFCmjHhZ4JnCbh/r55Yjs35u525EkOIV46FdK4F/XdyHSdogEqsfr6V02sw3HEQaZffnyP3gb641zbfE4gH1R5tA8d+lxaeRtOuSBHpHTOn44QkHnkoIONctzbwXYU/065LzeIGTRtXxXIgXxaLJPFBzCC8JUWnd/baPLtveZxbc19p/ZhsNDr",
-      "cdnUrlVerified": true,
-      "previousCdnUrl_enc": "2JQvl1RuM1ksEItSmCHl4kOAzaYK4YcHIKWS8w3/gs/uaIi9vEd6G2UIvFi6Tpx4OIVdubTL/D9XJqGvZGs24oF0eD7GBFOMfX6tnGK7yIkx5ABQVVStE5MhTsZYCeG/uKwqA8ur6P+a08qEkaajEjfNozUj/XAlnLS4C2l3jJ1d4S4vXRgbTJNNPPdG8lQr2w0kPV0PfbM9RSndzUt0+mTbH9KzaeF7K+DWR0htxAQ0r4fQi1eW"
+      "previousCdnUrl_enc": "vfaQo7xjmWevRXasC6UMuhvPYaQYd/iXmm+zhoIKTYPpD7YyBzVUp6gDZc+uyjOyZ1u+jvTLuzqOuzEv8ym0NbN1DtlOLPCWqSWrXFc8f+hYASqYfkueQ3GB3VbKpKPhB7EBRKZKZdZ4ewSkvCXDKo1EcYwrTQ7+LHwgJ0JgBShXCgr9MNfWFdui4VUGfqfLpv39OGgFvEBnUm8O56C+sx3SALeau7aFRGlk7KaHnf4cZkDAlF2EE95xriXE7kbfLDQQD+WQ"
     },
     {
       "buildName": "mob-dl4490",
@@ -139,7 +139,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "3.16.008",
-      "cdnUrl_enc": "CvaAV8saX0qXIFHJDOGQ4iuU8PQMQYH7L/H9mCfnBsVqdRH3J0iHqlBoF2K4KZ6bzYsXIPvH5Eazy7hQIEd7TO8I+sbkMb8p+zetwBUahZ8v4RClxq11w6tRKO17PaYAw5vaNUaJv/KG6v07WuLhtjtSHdHJTLSYZH5MA5uw6XDg+CjoPDIc+zTH2T21kakd73dNDTSlSZGyVCTvojREMqC1uVVxu2bLcc2cBjkghTZJ/G+CpKJKpBO1wOL8NJwxBpIupsqlJjw5gquCiYtvu1rA5709o6WJPVd6ZA==",
+      "cdnUrl_enc": "gA6IjrnzY6+3MYeIeIGDMzNczngmQU0zcG+e/dvVpWTiW6MYxJWKhQALSNfp+Rtp9oIUZN8eQ54iB+ZJvV+9JAbUurLuWFp5cCdK/AY1h+yT0aJywGJALMuY2ngPgz6BgbsIoRFA2HYedZuUCch4ou863LIsO1nh1CLjJ262XJ46lvefKF7GPqNwMOv0fP7igEvpWhEqxviuPhEclPeDCyJKAktAL8KUdMqznDe0emwvkSg0QMBZHe2xuHiG5pb2HCLn/Hk/gw8z+FhOabcdsupmA88+nVFCZmmhMA==",
       "cdnUrlVerified": true
     },
     {
@@ -161,7 +161,7 @@
       "legacy": false,
       "espressoVersion": "3.22.001",
       "espressoFwFolder": "3.22.008",
-      "cdnUrl_enc": "Q3bujFIZ+zuSgK3NJQdcNMsnbzXfPYYmNK9LyWdTqKl33iJOWY37FX9Od8y06HHGq5U08MRqGyrnoKswM622eaTedmY6Ly7Qe53dU7jPpyZq36K0lcg6Qhh99gtPolcxxDpLUWrwgh1KErojWd4hChV4J88A/u0Q1CXJgbNIac78gwUrghHuhs/TxJ5RMzudZLbAqfWfNwo/AEZ2CgyCLDrGO8JAW2MBWJfhqzVk0mf+cTD074Ti6+QwZVSMcRr9uLuSO2m16xin1LG5RC3U35w+ljH8",
+      "cdnUrl_enc": "bvIvzJ0t4uOCehRlPWlmQwI+YJBQFYXb2ePuh0AEMEB+vu+arlBtgqLDaLkj7nRy56OFx4I+B8AKDS77wDdkm1i/lzEEsW7NTEOCeDhA/aH4AJgdUsDIH7btTLC2DuaJufHAcFfXsn65n4W4k2AaV+f8/9LJDvaaeDB2fjnL4rHU8rtuk2lO3Wfalg8umr04m/Ypdl2L90woBpM4VLbg/AmAWFAu4s21vNQBX66YUy7/4Pr2JMFRpuo4vRdQOwoTw0aBAPdo9u8sQnVPBtLWLTQEhdWI",
       "cdnUrlVerified": true
     },
     {
@@ -173,15 +173,16 @@
         "Memor 35"
       ],
       "androidVersion": "13",
-      "version": "1.23.009",
+      "version": "1.25.002",
       "artifactType": "ota-incr",
       "gmsType": "gms",
-      "fileSize": 53568136,
-      "sha256": "",
+      "fileSize": 97835058,
+      "sha256": "bf0c6e3290d80804b1e3fec0dd429e4ab6ae10d8a721c3017e09bfd591837008",
       "legacy": false,
-      "baseVersion": "1.23.007",
-      "cdnUrl_enc": "bzBegp/nS7TziZnft5nRq7ybYSalfyASnU3HkF63nZMH6A6Mu80gff9Dzd/rwpiMGMqp1COLkErbBvuSVLa9jbjKEHyCGYkCVqymroiDxKRCcJEfCaqCIqf0jg47YGeRBgtWyZc76aK1Cxf2XHBpyP3kjGNa66llP6Zugx51RDN6iB1UIQCxPrYXWqoLLk2QaL7f6aqjFRBDOxAMWVftzRUWkSwuMthC4aI8tSfnyBquVkEf/Vsfn5vdAWXmHcY097LzrFttGI4gG6DP",
-      "cdnUrlVerified": true
+      "baseVersion": "1.23.009",
+      "cdnUrl_enc": "3+oLKSekV5LjR4A15/0pFYRuYaTwZ7kQxrMDe1ZnX7jnkZjWMaIlJuvchZOwgkg5tiOHJayVjHN9y+uGNjZcIGoag059V7MvkwqFUHYQYoMsRL2Aiwh7B3ysnlRvUmA8+Zxjzf+uGTrtm23Q1TMq/G1151Dp0PBNjtT5aglVhJItE4D9FolKEys6qV2kc3qX/7ErNQ1H/ZbllpLbYDkPqkuRtimzN+YFXS2U0YGfxRwBy6UkZ22d6OGW/2oDRuR0eLx8n3lpyvUb9VEw",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "zKjJ1QKTrSOONh+lH0fOqFfLcjm+IeEZgIQswOYiNcUIzAVDKX6DEjpO8x/s/eUKZKx5I1Zp7aUPvzw8aJo/+yqsbZMXIS91TfavfMrviJ4LCJtw6o85SZ4L/0ifVBPKUXer7iKW+zxumyiq6j0IKH91bxOOTD/gaJDW9bFpOzmhBWFobXSmFuvqk5ME/e2+oiNugbioxfpjHfC+9PZ10rahzVyGwblnqILR9tDR3A13RtIFFd86hTjOMFg01n5Sgg2M2kvake4dhRWo"
     },
     {
       "buildName": "mob-dl4490",
@@ -192,16 +193,17 @@
         "Memor 35"
       ],
       "androidVersion": "13",
-      "version": "1.23.004",
+      "version": "1.25.001",
       "artifactType": "espresso",
       "gmsType": "gms",
-      "fileSize": 31858123,
+      "fileSize": 31860300,
       "sha256": "",
       "legacy": false,
-      "espressoVersion": "1.23.004",
-      "espressoFwFolder": "1.23.007",
-      "cdnUrl_enc": "7j86rC1eXkRmKH0Vs5L9mJ9lzC6OyRdDOlj6lYzGe24RdGdwwSG7YozLu+CH0IwHa27oYpsQlsPRoEo1VKsd+tyghX1oDpShsPoMiPuIpC0gjtuFoksjFSbuG9oGcPJcwunAB+avAzjLfZ+TmfzKG/LjYVk0V5xte4ksL9k6fFORVOG7TnNEdOSyFzlh2H58//t68+VxKp0VTZoihglRMeVyeS/c/pW7Fxb3XwexvNCmPOY00cJosB3zCK7ExETH8DA/zpc=",
-      "cdnUrlVerified": true
+      "espressoVersion": "1.25.001",
+      "espressoFwFolder": "1.25.002",
+      "cdnUrl_enc": "6IbIR8Xrg1S9pb/DOVQ5FwcFhNzb6eYa+5f3eZz5HXWNfREV922Cj/Fk89dpaiQo3ZHbgzOgPdRke6izOEtSQLxjtGafm3GWU7PkxrtF1/kaeiYM7+4/vAGn/o7VCi7KOFNyuaIzUKSPQOZxMgDFXApbzQ1jFktDj2NVVSkb3+TtC+afAxkyyGU4GWlvoKdFt1XbQZiyabkPLY+l6cxU4Q0a57DlOwtRIG/7tshruKo5Wj+Qt0tWiOtkd2+O7bNXUkvfAlU=",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "iitIHDQOf9R7/T3E+AQ8OA3I1AANsDq9+IBX8xi6HLAKiCJ8CV6/CA0o7dztJaA7pX+mdrv51iHGMoi/Hqv8EERym4Ml1czbMEaKWhOEeLVi/+wNAWy7kpwzFArYmAaZRsUIbHRoLxsm7db9cDNI8W+Ht61UokTjvizXFpyp+vqqY4inboHY+mbrMIicigXmd1HWNZi7t6NADjZQY5MB8p3vuStOETH0GoHPqYDG2CBto5FjvcatOxH/1qxsVcFmVSbfiy0="
     },
     {
       "buildName": "mob-m11",
@@ -216,7 +218,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "2.12.25",
-      "cdnUrl_enc": "MCM2PwgRD98s5I4MXQPIRUmB8WxhRmDoZYhoLB1FSFiApBEqIrWbu5xENwSfGcCskfFdFQvGlUOSv3E/9ri7Myd5YHct+ri7RdleGzsiWSFSJKf6wgib8QQW4R3ZY1tb2PHxjgf4LWw8OzmXJHuOUA9LvHO8+ZtLtMHp5Bq1nQ7r8xhhLjT9Kx6dvQ5TVakexCJuQeMMTPxxf5XJxOqmCkvdaH2eIfJ3AWwGC3C0xE//H+t38zj80cdgkTm2",
+      "cdnUrl_enc": "MXXrDKIRLRq+5dSHeFpRTG/p8mivslDdvsk+mYKn4OAS3qdKk+qBjHKF3zZ3OwIkhQol6bIRmQtvTVBUJOjhnUIbiQ8RYgTEBZf5k9iNSLheh9JKyyNQmfTvCeBAiKIXtySsK1SZsrvZD465USAw3tWwOAeK0S0Vb1TLBHrO/K8e5Wwz9JUtP4A7J9wKhrk8PEHT1PSzKnGRni5Lbk8Ok3kXHrMy39uunXeBTwA1tLZG6xhk05mMvebrxfLB",
       "cdnUrlVerified": true
     },
     {
@@ -233,7 +235,7 @@
       "legacy": false,
       "espressoVersion": "2.14.29",
       "espressoFwFolder": "2.14.29",
-      "cdnUrl_enc": "x/aFcHqDNqYodGyi0Rg2cynf+iwhQtZppj3UOcqqQRleLuVybMTo0xk+gb1CgI3g+ILRKv+6dhj2D90IvXhBFvs+A1rgr8DoO88/6xmdm2HH4bSj9hJKEWydDn2cSI9aAS8TFZCeXoQ8EwTzkD0NV9BldPTEQpD5Aa6bFLCgdWy5XKCkiKsGPw94BzmlI/fTlArz8afvZcAdTuhEOsX7LB9Xequ/k0K6tO6FhMttNoadNleKNYC/odYi",
+      "cdnUrl_enc": "tYUd8ec8R0yi4+wvsD6dsbffYtS4x9YQZm+rfJVp3e+DYVJKiPSJg4q8iK/yDEmbndSbZ+Rm9myH6fhwu4ZLWh/sfocM2oorfHALEWXBHjNp3BJcC6URndZPbw4rv5gDTxY7gogad/+W4k5SYH9OKX37BEiflAk3VU+hP7xZV/bJXlMDJNBPmcoTqe2s83Gfj2pPRF4d3hOujpilUfeiEHLsjwg0i/UVUTt68e57ERx2ycXOdat17YPW",
       "cdnUrlVerified": true
     },
     {
@@ -249,7 +251,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "4.06.002",
-      "cdnUrl_enc": "WC83+JqC/qAy4d3J5AysDoxcvSBOUn4MlSebmnCNjRA3s2Y/GRBQebuCWn3ZwIkDkMtzxL6jvw3eYcBVYWXolq0s/AFCs4MKf1YqU9evRUGlDcicrnKe/WH3jj4H8Ptkd2UA9goYWg20maZRO8wKn4a3+58+ZHIsROO+pgdy0hxxlxWAxSv6GID1T8e8rL43E8x3OT/0mnzVN9JzYTdECq1Pd5IDjgLUuOxZ12fA9lUp5leNQ0zwtqYVapt5",
+      "cdnUrl_enc": "X1TB7fk8EA0DoaLKGNShp+WF+93WVK78WeW+Yx5qe5YwxMnDMYvciFX8YyygQPV6ezKlF/U2TL1dwIxMhCWaQh0QMYBiDhR2l9LxcDiJchZWzmYLfvT6neo2wp02Z5ZZ/lbKUKBxQ8A40Wg7NRqiLIX0bGMbiWsQDp0iSvSCXw7xMV3tRM4PA60t9Ym8Hk2ZaTqr6lAmLx9CADrPQwt/72EO+kdrqpjf0GblyBLVAra+T3u3jHEz6vIO9cRo",
       "cdnUrlVerified": true
     },
     {
@@ -266,7 +268,7 @@
       "legacy": false,
       "espressoVersion": "4.08.001",
       "espressoFwFolder": "4.08.002",
-      "cdnUrl_enc": "AnW1cnoGw+du3YSA4w+PJPV+vqZnjUO4vKPeTUnNpPXpjX7dSew/TOolGqQxjjFTInNNaWt3eCEdk8itWbe8itD4rFmKw5UO9nnNQCGv6uF0dP3ZoqjFy2AxMBP/AOb7tsKgFCNE0PIrwWASWolXQy2I3t+n1HE4hmQnslIsya0BExz+Z0HI3PJlLpifVW14iD6s4BoZSPRYQA400NhbG1oXSqbvD0jkKn2XThXV/TeHrS3lHoo=",
+      "cdnUrl_enc": "QUbiKChDXmQ/JTlf6wgZhCWZBnVkQva1VlpJLxcu+qlOa1V22UPwJ2XlXSBAR+m8/F2pbcy7VjGOidKyhySGtNLMhVdI1C6pWYA/Qgf8wN0mkFcXG6sBUWAOG6wZF2nVBNpxGE8m5LYM2BF27UAJPSHuhQ29tyVYCTot3AizMy93d1YGNAC6AfL7+EUOSGfJQ0Ceg1Zf+2s2OPSaW9jikVb3KKPEv9X/jM6wIchauxSdb+n/iCQ=",
       "cdnUrlVerified": true
     },
     {
@@ -283,7 +285,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "1.02.06",
-      "cdnUrl_enc": "lug2NVqNbunIFxG5JFTqjFIJ4vCRZH9G7RTEklUFTX010aC2NeyQ9YlbjI5JgOIONR0atRyXLrVmMcwMg40ifqpin9lhCm1eII2zG7zXMwmLfJHTbcD/4fxiANk8d/6rSTwmxo8rZuobEiYzMV4aYP1G1+lu3lhDuuk+yB/XzWRC3xAQaV4/psb1szM9C5hloCgO8KrI72+GWF44PuCdywSsRMBQ/QCe60/r472GHFqstFYSg4pehjiAgacOmOBOdQc=",
+      "cdnUrl_enc": "gIvET3jWYXlP/6nbkcm8Q88YXIZy0Ucalt1p07D9dPlOUWXg+yXiIbmuIFSVvbHwfyH+bildHdKXeUvQ6SLkSOiVsHOESTyw+F6K+WuOg9vn470kxWdbJEm4EwIjUtD6lC3UZ2KfxuA9rMWBUFmq7hk7iXfDNOMLLXVoIfYlrNOtdoa9cG6zuccqao7j80SRZWDxonz1buIRvoqoeNxAY1S/x92zymksZYosDNzzGPnSrDA9d7cggE9xe0wDy4xtz+4=",
       "cdnUrlVerified": true
     },
     {
@@ -301,7 +303,7 @@
       "legacy": false,
       "espressoVersion": "1.03.08",
       "espressoFwFolder": "1.03.08",
-      "cdnUrl_enc": "q8ULXDKBCy+8T5zVnFvtDhTILuaXWdnMNmq23xM/kGuz+eg9VnjdxBktE3uCPlrwSQbaCw+QJezoOGY2CvDnFngagr0U473C8H3lhQ8Z30qi1K+mg5wn8GP9V3KcgtTOSafqv8Uzqgv+Wuia/jfKI1WKOZFC+CQPDeEeEnQK+B1O/iWZGOvCJJwgR9QVwyilVcXfhwx6VaxGVzsthpdbiZtus2beGcQ1wbdRLFwFywrlwqOSrfJE7LUE",
+      "cdnUrl_enc": "abrK8LXiJS2yAOIijKWzqojsg/7C59Xj/7Qtanp1yY9lvJs0KhYDRXG3QUlTltBAZCulF91vqZE3SxbEOlRUX3v4R/rs9BUpJfbn3/kT/hEPCXyhNXWHkNcU9hTOhUW5CmUPD/eT7GkGRNl7/Lbxz/zgPHCrvNMWtpzhpduTKpLx8KCH4kHai1NLL4kn81TnkGtwWMxkrp0Brwl3EqCZMbyBACWuLvJKEx8BntJJeKN+R2Wq0RZjHXqN",
       "cdnUrlVerified": true
     },
     {
@@ -317,7 +319,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "4.08.001",
-      "cdnUrl_enc": "CuDXqLpaNRbe+nr/zHXt7gprkUpEvO+OOBVxYejVXH+xRQaZbPCp8jmy9wq/XzoxsvlCbVcdJGHIieq1uWBq2zUjnc6eHU9MfpQlJXNLdCfoNKm/abnV4Nu9D+M/X9LYBKh+fdtAal1XR/9oeu0c1roC86hnFwQ64K7DFY9GPoOywwlq1NJP6B0K/1Zo/O2GgQwawwMST2qFvRP8wDEeaVse4/VW83HhgdpTl9y6d+/UididKhTJCarfWO7ozg44SDtLDwmvbNXiMrnPaf/qipVISU5cdw==",
+      "cdnUrl_enc": "arb1Q9mWyr74OpKn4Sm9aoqlj+X8rK7V5HH9Y7Rohyae+sDGH61jXgvG2Wb3ZOcTaifhmTc6y0KkuwhpwPu11WU5xFoKzMaESstFwd+oGU2RIk3aM81BJ5UeU6ZE2Xi6F3eMsehqUPQOV3WOqy9qAfma1X2jJLokD6M2TrCqoc/SYNjXrC1xsp6AvjW6TwMPW70N7QgNycBUxxHsTFHkd7K7HnF/RxX0/6gfStOQS8OGpAd6PlBJafGHjjD3+3RSoL3ftQz+uy4UMBs8qEpUmEoC5yHqYg==",
       "cdnUrlVerified": true
     },
     {
@@ -334,7 +336,7 @@
       "legacy": false,
       "espressoVersion": "4.08.002",
       "espressoFwFolder": "4.08.002",
-      "cdnUrl_enc": "bIw3R61AqimtiEJTMnwzWgu3WaWpV95g+UAErkJp25xKxClCNO65utDRjys+729tP69hcKv3Rg/OqcfEDQ1r62efH1xqEtUayqlTwSLg5cHILGHeO04IukY8NAUAaHhA6CTCqjUZ/bbcZ2P0qZahPUUSWkdHPY30+58xO2ATfhQaVOAslQsTugjWa2o1CUQsALn5FqeoLVklpZ41VPqr6tLqpGR/44Nxvw49lWInw6DYxX7IGNrtwsEb3A8v6nvO7+6FFOzs+sL/OwT5",
+      "cdnUrl_enc": "mFPr6Fb9JdlIvi/g/WA/b6f1KhbtnHWhlzLS8vzhC0ACVkjSODbqbR7+vxY39RQChqtYfNrwFEFgfQ8VXgYpU6HZ6n43fyvXMZ0CnQ0S/uIVqFysXBjdv2II1oUAfosu3EsxxOlWVsvD7MrS31X/TpKe/TWPxO1je4bhz1Mys8tg7Mqz0Xq9eI5SINaSpLRjRvWzcMgCnWK+NwNGuH79DcmcVrdT5Wr+VhK7/tUtP8pBzCH0InchaPtSNxEk4IcXsCHOJMfMuNEBWqCI",
       "cdnUrlVerified": true
     },
     {
@@ -350,7 +352,7 @@
       "sha256": "",
       "legacy": false,
       "baseVersion": "4.04.008",
-      "cdnUrl_enc": "5IXPrIyhwEJeoEbe6LvbTdxhyKOo9QT5kTHYJgZ1NqZkzhGbmAxj8NQ0EUO57voW/uZySVp2K8G+KwHLimF6qpWSlsYoFpGS4G31A2SOyi1pd9Ezi8gExzqRlSb0Prq0XSMc0vg3ktgGNIKbfTUNNlUwYsXQnukJfzYuOx06gHC/Ix5/SO1E+sp7e3HV9nsJJIY5M2lwMW79j5s3XsKxouXFL5kjq+rlUUV61gbN4BG87AwZha5egwu8UZjv+QReD5k0cDIs1BUipRw73EumrKRK1A==",
+      "cdnUrl_enc": "3lEs7Oe8tggdQVV+sm+mI/TK1e2fzLLcKjiRfllgirxT1rRJjsGeEB6hx+eekPd/RvxYj1XyKO1r7+nbqFQvCgrjwsZQwmGy+igKPPIp3e7xf75+l824+R5l0VAaNt74NLLvu8S2z06NNe0M9RNod0yQF9pegxkfXXuhi81bZmmN1V39xtHne2zk/gf7Ii/wRt0CZEcs3ob4dr42eXWxN7UTYyj/pjshzVT4qsLbA0KdbHLd+QIxczZw7RIbV4gS4eGkavrIAZm4jfSgOOvtOvwAgg==",
       "cdnUrlVerified": true
     },
     {
@@ -367,7 +369,7 @@
       "legacy": false,
       "espressoVersion": "4.08.001",
       "espressoFwFolder": "4.08.004",
-      "cdnUrl_enc": "VyHuFKTgOtYmMX3j78+oHm+bHYfdAhRcWOWh4wbuTJBfnwBhRdEjgjgnzrjQ5NTeIChjMGn0bLyJFv033pHHby+9Dyt1oQQlMUIBIB+92Tlotz8OqMFXMZlnetrg/SFf8mi4wZQtf8kynWrs7jBWr8MfL0YY5UNZyhYCXh2Kxf2JFHmMSfqpKlfxogT/xQ+MJddpHuw0T74BBj5lNgrEjCY9hZvWcihM+LY7CiOcsXckwdXbIMJLiIj7WrUqdcsxdsgS53j2X7dM",
+      "cdnUrl_enc": "7PSNnf1wvH7Xs7K/DZZmOQqxjxpMQKckzTo+02Q9VuBiVwcFjNpD6T+S5g8cwsXugi+EjfrokuceuDmplvd8KcECrdopuOa2obYGrkoYO0FOQWnDQ9LiBnkIhDmBigfRcGqVIwf627awaV6yNkJQdWfp053RP3oB977DkykZ+00Qd8KdC2GH55jClm52xlqr2QhEaQRjVOOt+LDrZ0bm5aVv7hJ99/bRjbV5nrDc00/u8WdFIMdneaqM2LA7vITiTZzjc7LPx2tk",
       "cdnUrlVerified": true
     }
   ],
@@ -429,5 +431,5 @@
       "note": "da verificare con ro.product.model"
     }
   },
-  "publishedAt": "2026-04-27T17:27:29Z"
+  "publishedAt": "2026-04-28T14:42:49Z"
 }
